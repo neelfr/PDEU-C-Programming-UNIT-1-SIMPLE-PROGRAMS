@@ -3,7 +3,7 @@
 int main()
 {
     float dollars, rupees;
-    float rate = 95.70; // Conversion rate
+    float rate = 48; // Conversion rate
 
     printf("Enter amount in Dollars ($): ");
     scanf("%f", &dollars);
