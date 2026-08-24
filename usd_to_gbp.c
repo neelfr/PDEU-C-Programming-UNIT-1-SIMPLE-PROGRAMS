@@ -3,8 +3,8 @@
 int main()
 {
     float dollars, rupees, pounds;
-    float usd_to_inr = 95.70; // Conversion rate
-    float gbp_to_inr = 130.53; // Conversion rate
+    float usd_to_inr = 48; // Conversion rate
+    float gbp_to_inr = 70; // Conversion rate
 
     printf("Enter amount in Dollars ($): ");
     scanf("%f", &dollars);
